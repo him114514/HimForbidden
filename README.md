@@ -1,5 +1,6 @@
 # HimForbidden
-![适用核心](https://img.shields.io/badge/适用核心-Spigot|paper等)
+![适用核心](https://img.shields.io/badge/适用核心-Spigot|paper)
+
 ![适用版本](https://img.shields.io/badge/适用版本-1.19+-blue)
 
 此插件的功能是设置违禁词并屏蔽
