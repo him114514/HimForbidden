@@ -1,0 +1,15 @@
+name: HimForbidden
+version: '${project.version}'
+main: org.him.himforbidden.HimForbidden
+api-version: '1.19'
+description: 作者him
+  github搜him114514找我
+  或者找我QQ：715387640
+  QQ群号：139865381
+  此插件配置文件请手动更改随后使用
+  /hfreload命令重启插件，即可添加
+  违禁词
+author: him
+commands:
+  hfreload:
+    description: 重载此插件
